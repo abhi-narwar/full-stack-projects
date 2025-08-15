@@ -1,16 +1,13 @@
 E-commerce website
 
 Blog application
-
 Any API-based project
 
 
-4. Projects (Resume Worthy)
+Projects (Resume Worthy)
 
 2–3 projects jo real-world lagte ho:
-
 E-commerce website (Django + HTML/CSS/JS)
-
 Blog platform with login/signup
 
 Any ML model (e.g., Car price prediction) with web interface
